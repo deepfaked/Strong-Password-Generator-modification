@@ -1,2 +1,2 @@
 # Strong Password Generator modification
- tracker, ad, everithing useless removed. 
+ tracker, ad, everything useless removed. 
